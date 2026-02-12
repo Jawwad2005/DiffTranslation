@@ -1,0 +1,6 @@
+# Virtual environments
+env/
+diffusion_env/
+
+# Hidden file
+.hidden
